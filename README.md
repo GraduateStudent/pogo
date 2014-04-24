@@ -1,2 +1,2 @@
-pogoplug_series4_embedded
+pogoplug_series4
 =========================
